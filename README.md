@@ -1,1 +1,1 @@
-# Linear-Equation
+# Linear Equation
